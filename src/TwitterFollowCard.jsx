@@ -1,4 +1,5 @@
-import './Index.css'
+import './assets/Index.css';
+
 //importo hooks useState, para añadir funcionalidad a los componentes
 import { useState } from 'react' 
 
